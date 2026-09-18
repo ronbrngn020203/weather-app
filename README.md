@@ -2,15 +2,15 @@
 
 A simple, clean weather lookup app built with React. Search any city and get real-time weather conditions.
 
-**[Live Demo](#)** *(add your deployed link here)*
+**[Live Demo](https://weather-app-five-brown-32.vercel.app/)**
 
 ## Features
 
-- 🔍 Search weather by city name
-- 🌡️ Displays temperature, wind speed, wind direction, and day/night status
-- ⏳ Loading state with animated spinner during fetch
-- ⚠️ Error handling for invalid or unrecognized city names
-- 🎨 Clean, responsive card-based UI with hover states and smooth transitions
+-  Search weather by city name
+-  Displays temperature, wind speed, wind direction, and day/night status
+-  Loading state with animated spinner during fetch
+-  Error handling for invalid or unrecognized city names
+-  Clean, responsive card-based UI with hover states and smooth transitions
 
 ## Tech Stack
 
